@@ -1,4 +1,4 @@
-# Приветствую всех! Меня зовут Артем :handshake:
+# Приветствую всех! Меня зовут Артем ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ## Начинающий **Web** Разработчик :technologist:
 #### Связаться со мной: melman69rus@mail.ru :writing_hand:
 ### Мои навыки:
