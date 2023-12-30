@@ -1,6 +1,6 @@
 # Приветствую всех! Меня зовут Артем ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ## Начинающий **Web** Разработчик :technologist:
-### Связаться со мной::writing_hand:
+### Связаться со мной:
 #### mail: melman69rus@mail.ru 
 #### tg: https://t.me/melmanartem
 #### vk: https://vk.com/artem_melman
